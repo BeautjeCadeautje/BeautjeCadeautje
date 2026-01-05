@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BeautjeCadeautje
+- 👋 Hi, I’m Beau
+- Feel free to get to know me
 
 
 <!---
